@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikpatil" alt="ritikpatil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ritikpatil377" target="blank"><img src="https://img.shields.io/twitter/follow/ritikpatil377?logo=twitter&style=for-the-badge" alt="ritikpatil377" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ritikpatil377" target="_blank"><img src="https://img.shields.io/twitter/follow/ritikpatil377?logo=twitter&style=for-the-badge" alt="ritikpatil377" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ritikpatil.herokuapp.com/](https://ritikpatil.herokuapp.com/)
 
@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ritikpatil377" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ritikpatil377" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritik patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ritik patil" height="30" width="40" /></a>
-<a href="https://fb.com/ritik patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ritik patil" height="30" width="40" /></a>
-<a href="https://instagram.com/my__self__ritik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="my__self__ritik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ritikpatil370" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ritikpatil370" height="30" width="40" /></a>
+<a href="https://twitter.com/ritikpatil377" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ritikpatil377" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritik patil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ritik patil" height="30" width="40" /></a>
+<a href="https://fb.com/ritik patil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ritik patil" height="30" width="40" /></a>
+<a href="https://instagram.com/my__self__ritik" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="my__self__ritik" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ritikpatil370" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ritikpatil370" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
