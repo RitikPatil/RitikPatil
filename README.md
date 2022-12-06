@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritikpatil377" target="_blank"><img src="https://img.shields.io/twitter/follow/ritikpatil377?logo=twitter&style=for-the-badge" alt="ritikpatil377" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.ritikpatil.com/](https://www.ritikpatil.com/)
+- 👨‍💻 All of my projects are available at [https://www.ritikpatil.com/](www.ritikpatil.com/)
 
 - 📫 How to reach me **ritikpatil370@gmail.com**
 
